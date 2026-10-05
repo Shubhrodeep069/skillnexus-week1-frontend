@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with React",
+        "excerpt": "Learn the fundamentals of React components, props, and state.",
+        "category": "React",
+        "author": "Shubhrodeep Majumder",
+        "date": "October 1, 2026"
+    },
+    {
+        "id": 2,
+        "title": "Understanding JavaScript ES6",
+        "excerpt": "Explore modern JavaScript features that make development easier.",
+        "category": "JavaScript",
+        "author": "Shubhrodeep Majumder",
+        "date": "September 28, 2026"
+    },
+    {
+        "id": 3,
+        "title": "Responsive Web Design",
+        "excerpt": "Build websites that work beautifully across desktop, tablet, and mobile devices.",
+        "category": "Web Development",
+        "author": "Shubhrodeep Majumder",
+        "date": "September 24, 2026"
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Machine Learning",
+        "excerpt": "Understand the basic concepts behind machine learning and intelligent applications.",
+        "category": "Machine Learning",
+        "author": "Shubhrodeep Majumder",
+        "date": "September 20, 2026"
+    },
+    {
+        "id": 5,
+        "title": "Building Reusable React Components",
+        "excerpt": "Discover how reusable components can make React applications cleaner and easier to maintain.",
+        "category": "React",
+        "author": "Shubhrodeep Majumder",
+        "date": "September 16, 2026"
+    },
+    {
+        "id": 6,
+        "title": "Why Developers Use Git and GitHub",
+        "excerpt": "Learn how version control helps developers manage and collaborate on projects.",
+        "category": "Development",
+        "author": "Shubhrodeep Majumder",
+        "date": "September 12, 2026"
+    }
+]
